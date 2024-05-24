@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm Aniket</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket182001&label=Profile%20views&color=0e75b6&style=flat" alt="aniket182001" /> </p>
+
+- 🔭 I’m currently working on [Virat Kohli Cricket Performance Dashboard](https://github.com/Aniket182001/Cricket-player-stats-dashboard-PowerBi)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Aniket182001](https://github.com/Aniket182001)
+
+- 📫 How to reach me **jobs.aniketk@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+
 Virat Kohli Cricket Performance Dashboard
 
 This Power BI dashboard provides a comprehensive overview of Virat Kohli's cricket performance across all formats, including ODIs, T20s, and Tests. The dashboard is designed to be visually appealing and informative, with key metrics and insights displayed in an easy-to-understand format.
