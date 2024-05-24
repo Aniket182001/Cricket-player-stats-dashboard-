@@ -11,7 +11,7 @@
 
 <p align="left">
 </p>
-
+<br>
 <p align="center">
 <h3 align="center">Virat Kohli Cricket Performance Dashboard</h3>
 </p>
