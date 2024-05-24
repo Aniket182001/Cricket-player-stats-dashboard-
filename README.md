@@ -13,8 +13,7 @@
 </p>
 
 
-
-Virat Kohli Cricket Performance Dashboard
+<h3 align="center">Virat Kohli Cricket Performance Dashboard</h3>
 
 This Power BI dashboard provides a comprehensive overview of Virat Kohli's cricket performance across all formats, including ODIs, T20s, and Tests. The dashboard is designed to be visually appealing and informative, with key metrics and insights displayed in an easy-to-understand format.
 
