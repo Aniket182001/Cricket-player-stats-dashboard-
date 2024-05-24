@@ -33,4 +33,6 @@ Benefits:
 - Get insights into his strengths and weaknesses.
 
 <h3 align="left">Preview</h3>
+
 ![Virat Kohli Stats Page 1](https://raw.githubusercontent.com/Aniket182001/Cricket-player-stats-dashboard-PowerBi/main/Virat%20Kohli%20Stats_page-0001.jpg)
+
